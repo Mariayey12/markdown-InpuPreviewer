@@ -8,6 +8,16 @@ export default class App extends React.Component {
     super(props);
     this.state = {
       markdown: `
+      # React Markdown Previewer!
+      ## This is a sub-heading...
+          
+      Or... wait for it... **_both!_**
+        
+      And feel free to go crazy ~~crossing stuff out~~.
+            
+      There's also [links](https://github.com/Mariayey12/), and
+      > Block Quotes!
+
      `,
     };
   }
@@ -53,7 +63,7 @@ export default class App extends React.Component {
                 data-size="large"
                 aria-label="Follow @Mariayey12 on GitHub"
               >
-                Follow @lelouchB
+                Follow @Mariayey12
               </a>
               <div style={{ marginLeft: "10px" }}></div>
               <a
