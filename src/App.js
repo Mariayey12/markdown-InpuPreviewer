@@ -58,20 +58,20 @@ export default class App extends React.Component {
               <div style={{ marginLeft: "10px" }}></div>
               <a
                 class="github-button"
-                href=""
+                href="https://github.com/Mariayey12/markdown-InpuPreviewer"
                 data-icon="octicon-star"
                 data-size="large"
-                aria-label="Star lelouchB/markdown-previewer on GitHub"
+                aria-label="Star Mariayey12/markdown-previewer on GitHub"
               >
                 Star
               </a>
 
               <a
                 class="github-button"
-                href="https://github.com/lelouchB/markdown-previewer/fork"
+                href="https://github.com/Mariayey12/markdown-InpuPreviewer/fork"
                 data-icon="octicon-repo-forked"
                 data-size="large"
-                aria-label="Fork lelouchB/markdown-previewer on GitHub"
+                aria-label="Fork Mariayey12/markdown-previewer on GitHub"
               >
                 Fork
               </a>
